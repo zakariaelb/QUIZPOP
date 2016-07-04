@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Pop Quiz</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="input_box_hint">Your Answer</string>
+
+    <string name="correct_msg">Correct!</string>
+    <string name="wrong_msg">Wrong!</string>
+    <string name="done_msg">Done!</string>
+
+    <string-array name="questions">
+        <item>@array/question_0</item>
+        <item>@array/question_1</item>
+        <item>@array/question_2</item>
+        <item>@array/question_3</item>
+        <item>@array/question_4</item>
+        <item>@array/question_5</item>
+    </string-array>
+
+    <string-array name="question_0">
+        <item>How many planets are there in our solar system?</item>
+        <item>3</item>
+        <item>8</item>
+        <item>@array/options_0</item>
+    </string-array>
+
+    <string-array name="question_1">
+        <item>The planets that belong to the solar system are...</item>
+        <item>2</item>
+        <item>0,2,3,</item>
+        <item>@array/options_1</item>
+    </string-array>
+
+    <string-array name="question_2">
+        <item>Are the orbits of the planets on the same plane?</item>
+        <item>1</item>
+        <item>0</item>
+        <item>@array/options_2</item>
+    </string-array>
+
+    <string-array name="question_3">
+        <item>In our solar system, the planets known as the giant planets are also known as the outer planets?</item>
+        <item>1</item>
+        <item>0</item>
+        <item>@array/options_3</item>
+    </string-array>
+
+    <string-array name="question_4">
+        <item>Which statement describes the atmosphere of the planet correctly?</item>
+        <item>1</item>
+        <item>1</item>
+        <item>@array/options_4</item>
+    </string-array>
+
+    <string-array name="question_5">
+        <item>To weigh roughly two-thirds less than what you do on Earth, which planet would you be on?</item>
+        <item>3</item>
+        <item>mars</item>
+        <item>@array/options_5</item>
+    </string-array>
+
+    <string-array name="options_0">
+    </string-array>
+    <string-array name="options_1">
+        <item>Uranus</item>
+        <item>Titan</item>
+        <item>Venus</item>
+        <item>Saturn</item>
+    </string-array>
+    <string-array name="options_2">
+        <item>Yes, more or less</item>
+        <item>No, they’re all over the place</item>
+    </string-array>
+    <string-array name="options_3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="options_4">
+        <item>Mercury is mostly nitrogen</item>
+        <item>Venus is mostly carbon dioxide</item>
+        <item>Earth is mostly oxygen</item>
+        <item>Saturn is mostly helium</item>
+    </string-array>
+    <string-array name="options_5">
+    </string-array>
+</resources>
