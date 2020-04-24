@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PopQuiz.iml" filepath="$PROJECT_DIR$/PopQuiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-quiz-app.iml" filepath="$PROJECT_DIR$/udacity-quiz-app.iml" group="udacity-quiz-app" />
+      <module fileurl="file://$PROJECT_DIR$/app/udacity-quiz-app-app.iml" filepath="$PROJECT_DIR$/app/udacity-quiz-app-app.iml" group="udacity-quiz-app/app" />
     </modules>
   </component>
 </project>
